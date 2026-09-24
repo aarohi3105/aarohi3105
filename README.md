@@ -38,9 +38,13 @@
 </div>
 
 # 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.shion.dev/api?username=aarohi3105&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=aarohi3105&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aarohi3105&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarohi3105/aarohi3105/output/github-snake-dark.svg">
