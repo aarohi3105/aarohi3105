@@ -63,8 +63,9 @@
 
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=aarohi3105&icon=3&color=10)](https://visitcount.itsvg.in)
 
