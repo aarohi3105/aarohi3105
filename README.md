@@ -36,7 +36,7 @@
 <p align="center"> <a href="https://leetcode.com/u/Aarohi31/">View my LeetCode profile →</a> </p>
 
 
-## 🐍 Contribution Snake
+
 ## 🐍 Contribution Snake
 
 <div align="center">
