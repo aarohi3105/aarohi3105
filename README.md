@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>   SubSense — Java Spring Boot Subscription Tracker<br><br>👯 I’m looking to collaborate on<br>   Java & Backend Development Projects<br><br>🤝 I’m looking for help with<br>   Advanced Spring Boot & System Design<br><br>🌱 I’m currently learning<br>   Spring Boot, REST APIs & Backend Development<br><br>💬 Ask me about<br>   Java, Spring Boot, JPA, Hibernate & MySQL<br><br>⚡ Fun fact<br>  My brain has 37 tabs open, and none of them are loading. 🧠😂
+# 👩‍💻 About Me
+
+> 👋 Hi! I'm **Aarohi Jain** — a curious **Computer Science student** who enjoys building things, exploring new technologies and figuring out how things work. I believe the best way to learn is by actually creating something.
+
+* 🎓 **B.Tech CSE Student** 
+* 💻 **Focus:** Software Development & Problem Solving
+* 🌍 **Interests:** Web Development | AI/ML 
+* 🧠 **Languages:** Java |Python
+* ⚡ **Tech Stack:** Spring Boot | REST APIs | MySQL | Git
+* 🔥 **Currently Working On:** SubSense — Java Spring Boot Subscription Tracker
+* 🚀 **Currently Learning:** DSA | Spring Boot | New Technologies
+* 🤝 **Open to:** Interesting projects, collaborations & learning opportunities
+* 🌱 **Always Exploring:** New ideas, tools & better ways to solve problems
+
+> *"Thanks for visiting! Somewhere between ‘I have no idea’ and ‘wait… I figured it out!’ is where I do my best learning. 🧠💻✨"*
+
 
 
 ## 🌐 Socials:
@@ -41,9 +55,14 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aarohi3105/aarohi3105/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarohi3105/aarohi3105/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarohi3105/aarohi3105/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aarohi3105/aarohi3105/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
+
 
 
 ### ✍️ Random Dev Quote
